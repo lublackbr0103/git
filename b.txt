@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mesmo codigo no ramo Master
+=======
+Mesmo codigo adicionado no ramo Teste
+>>>>>>> teste
